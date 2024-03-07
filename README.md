@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=🧠Chaerin's%20Github&fontColor=d6ace6&fontSize=40)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaexrin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **chaexrin/chaexrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=2BBAFF&center=true&vCenter=true&random=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
