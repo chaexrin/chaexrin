@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=🧠Chaerin's%20Github&fontColor=d6ace6&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=🧠Chaerin's%20Github&fontColor=d6ace6&fontSize=40) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
 
 
 
